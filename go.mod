@@ -1,5 +1,8 @@
-module github.com/starlink-community/starlink-grpc-go
+module github.com/clarkzjw/starlink-grpc-go
 
 go 1.14
 
-require google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0 // indirect
+require (
+	google.golang.org/grpc v1.49.0
+	google.golang.org/protobuf v1.27.1
+)
