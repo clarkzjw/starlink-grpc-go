@@ -1,4 +1,4 @@
-module github.com/clarkzjw/starlink-grpc-go
+module git.clarkzjw.cc/starlink/starlink-grpc-go
 
 go 1.14
 
