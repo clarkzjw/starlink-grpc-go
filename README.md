@@ -1,3 +1,7 @@
+[DEPRECATED] Merged into https://github.com/clarkzjw/starlink_exporter.
+
+===
+
 Golang GRPC bindings for communicating with the Starlink Dish and Wifi Router. 
 
 ## Rebuilding
